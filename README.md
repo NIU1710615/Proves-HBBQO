@@ -1,4 +1,4 @@
-![Logo Empresa](https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png){:width="200px"}
+<img src="https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png" alt="Logo FSH" width="200"/>
 
 
 |   Nom i Cognoms    |    NIU    |
