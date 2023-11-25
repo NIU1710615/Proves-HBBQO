@@ -1,8 +1,4 @@
-![llibre blau](https://images.emojiterra.com/google/android-12l/512px/1f4d8.png){width=30px}
-
-# **FONAMENTS D'ENGINYERIA: PRÀCTICA 1**
-
-![llibre blau](https://images.emojiterra.com/google/android-12l/512px/1f4d8.png){width=30px}
+![llibre blau](https://images.emojiterra.com/google/android-12l/512px/1f4d8.png){width=30px} # **FONAMENTS D'ENGINYERIA: PRÀCTICA 1** ![llibre blau](https://images.emojiterra.com/google/android-12l/512px/1f4d8.png){width=30px}
 
 <!-- <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
