@@ -1,11 +1,14 @@
-<img src="https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png" alt="Logo FSH" width="200"/>
-
 
 |   Nom i Cognoms    |    NIU    |
 |--------------------|-----------|
-| Helena Ruiz Cañas  |  1704276  |                       
+| Helena Ruiz Cañas  |  1704276  |
 | Aina Vidal Vázquez |  1709382  |
 | Lluís Sàrries Mas  | 1710615   | 
+
+<p align="right">
+<img src="https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png" alt="Logo FSH" width="200"/>
+</p>
+
 
 Informe de la pràctica
 
