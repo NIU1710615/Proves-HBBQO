@@ -2,6 +2,11 @@ Helena Ruiz Cañas  1704276
 Aina Vidal Vázquez 1709382
 Lluís Sàrries Mas 1710615
 
+|   Nom i Cognoms    |    NIU    |
+|--------------------|-----------|
+| Helena Ruiz Cañas  |  1704276  |
+| Aina Vidal Vázquez |  1709382  |
+| Lluís Sàrries Mas  | 1710615   | 
 
 Informe de la pràctica
 
