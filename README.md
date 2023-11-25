@@ -1,6 +1,9 @@
+![Logo Empresa](https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png){:width="200px"}
+
+
 |   Nom i Cognoms    |    NIU    |
 |--------------------|-----------|
-| Helena Ruiz Cañas  |  1704276  |                       ![Logo Empresa](https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png){:width="200px"}
+| Helena Ruiz Cañas  |  1704276  |                       
 | Aina Vidal Vázquez |  1709382  |
 | Lluís Sàrries Mas  | 1710615   | 
 
