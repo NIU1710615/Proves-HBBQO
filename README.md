@@ -1,4 +1,4 @@
-![Logo Empresa](https://mail.google.com/mail/u/0/popout?ver=13ua4yoq7j89l#attid%253Datt_18c07a377fa0b6d3_0.1_f_lpecweuu0)
+![Logo Empresa](https://ibb.co/946rpy4)
 
 |   Nom i Cognoms    |    NIU    |
 |--------------------|-----------|
