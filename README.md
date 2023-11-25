@@ -1,6 +1,4 @@
-Helena Ruiz Cañas  1704276
-Aina Vidal Vázquez 1709382
-Lluís Sàrries Mas 1710615
+![Logo Empresa]( https://s4.aconvert.com/convert/p3r68-cdx67/avmh6-6t92m.webp)
 
 |   Nom i Cognoms    |    NIU    |
 |--------------------|-----------|
