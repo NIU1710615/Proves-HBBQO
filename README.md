@@ -1,8 +1,10 @@
-<div style="display: flex; align-items: center; gap: 10px;">
+:blue_book: **FONAMENTS D'ENGINYERIA: PRÀCTICA 1** :blue_book:
+
+<!-- <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
   <h1 style="margin: 0;"><b style="vertical-align: middle;">FONAMENTS D'ENGINYERIA: PRÀCTICA 1</b></h1>
   <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
-</div>
+</div> -->
 
 * ## **Creació d'un script per a l'empresa HBBQO**
 
