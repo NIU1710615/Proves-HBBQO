@@ -1,4 +1,4 @@
-:blue_book: <h1>**FONAMENTS D'ENGINYERIA: PRÀCTICA 1** </h1> :blue_book:
+#  :blue_book: FONAMENTS D'ENGINYERIA: PRÀCTICA 1 :blue_book:
 
 <!-- <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
@@ -6,7 +6,7 @@
   <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
 </div> -->
 
-* ## **Creació d'un script per a l'empresa HBBQO**
+## Creació d'un script per a l'empresa HBBQO
 
 
 <!-- <p align="center">
@@ -27,17 +27,11 @@
 
 Aquesta pràctica es basa en la creació d'un menú d'usuari per a una empresa de "Streaming" anomenada HBBQO. La primera part es tracta d'un menú principal en el qual apareixen quatre opcions, de les quals per aquest primer treball hem implementat les dues primeres.
 
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://images.emojiterra.com/google/android-12l/512px/1f50d.png" alt="Llibre blau" width="20" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Opció 1:</b></h3>
-</div><br>
+### :mag: Opció 1:
 
 A l'opció 1 ens possibilita visualitzar el llistat de pel·lícules ordenades segons tres criteris diferents, alfabèticament, segons l'any de publicació, o bé segons la valoració que tingui el film.
 
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://files.cults3d.com/uploaders/20952150/illustration-file/cb813a37-f669-416c-a71b-9a83d46d30a5/pngwing.com-2022-02-20T094741.225.png" alt="Llibre blau" width="20" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Opció 2:</b></h3>
-</div><br>
+### :film_projector: Opció 2:
 
 L'opció 2 ens brinda l'oportunitat de cercar pel·lícules concretes, tenint en compte la primera lletra del títol, que contingui una paraula en específic i sigui d'un any concret, o segons els seus rating levels.
 
