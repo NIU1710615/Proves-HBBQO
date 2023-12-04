@@ -1,10 +1,4 @@
-#  :blue_book: FONAMENTS D'ENGINYERIA: PRÀCTICA 1 :blue_book:
-
-<!-- <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
-  <h1 style="margin: 0;"><b style="vertical-align: middle;">FONAMENTS D'ENGINYERIA: PRÀCTICA 1</b></h1>
-  <img src="https://images.emojiterra.com/google/android-12l/512px/1f4d8.png" alt="Llibre blau" width="30" style="vertical-align: middle;"/>
-</div> -->
+# :blue_book: FONAMENTS D'ENGINYERIA: PRÀCTICA 1 📘
 
 ## Creació d'un script per a l'empresa HBBQO
 
@@ -27,43 +21,39 @@
 
 Aquesta pràctica es basa en la creació d'un menú d'usuari per a una empresa de "Streaming" anomenada HBBQO. La primera part es tracta d'un menú principal en el qual apareixen quatre opcions, de les quals per aquest primer treball hem implementat les dues primeres.
 
-### :mag: Opció 1:
+### 🎬 Opció 1:
 
-A l'opció 1 ens possibilita visualitzar el llistat de pel·lícules ordenades segons tres criteris diferents, alfabèticament, segons l'any de publicació, o bé segons la valoració que tingui el film.
+A l'opció 1 ens possibilita visualitzar el llistat de pel·lícules ordenades segons tres criteris diferents, alfabèticament, segons l'any de publicació, o bé segons la valoració que tingui el film.<br>
+ㅤ
 
-### :film_projector: Opció 2:
+### 🔍 Opció 2:
 
-L'opció 2 ens brinda l'oportunitat de cercar pel·lícules concretes, tenint en compte la primera lletra del títol, que contingui una paraula en específic i sigui d'un any concret, o segons els seus rating levels.
+L'opció 2 ens brinda l'oportunitat de cercar pel·lícules concretes, tenint en compte la primera lletra del títol, que contingui una paraula en específic i sigui d'un any concret, o segons els seus rating levels.<br>
+ㅤ
+### 🎮 Opció 3:
 
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://images.emojiterra.com/google/android-12l/512px/1f50d.png" alt="Llibre blau" width="20" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Opció 3:</b></h3>
-</div><br>
+L'opció 3 ..... <br>
+ㅤ
+### ⚙️ Opció 4:
 
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://images.emojiterra.com/google/android-12l/512px/1f50d.png" alt="Llibre blau" width="20" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Opció 4:</b></h3>
-</div><br>
-
-
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://media.istockphoto.com/id/1162198273/es/vector/dise%C3%B1o-de-ilustraci%C3%B3n-vectorial-plana-icono-de-signo-de-interrogaci%C3%B3n.jpg?s=612x612&w=0&k=20&c=ZP_KrHAiZiMLttztdGIegaJlNhBYCvsyr0S9-irTTTM=" alt="Llibre blau" width="25" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Com utlitzar-lo:</b></h3>
-</div><br>
-
-Per poder utilitzar el menú des del repositori, cal situar-nos a la branca main i executar l'arxiu HBBQO.sh afegint el document HBBQO.csv com a argument. A partir d'aquí es mostrarà el menú principal i ja només caldrà seleccionar l'opció que sigui del nostre interès teclejant el seu número corresponent per teclat. Un cop finalitzada l’acció s’haurà d’esperar uns segons fins que torni automàticament al menú d’opció.
+L'opció 4 ....... <br>
+ㅤ
 
 
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/257/257195.png" alt="Llibre blau" width="25" style="vertical-align: middle;"/><img src="https://cdn-icons-png.flaticon.com/512/550/550096.png" alt="Llibre blau" width="25" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Problemes que hem tingut durant el projecte:</b></h3>
-</div><br>
+
+### ❓ Com utilizar-lo: 
+
+Per poder utilitzar el menú des del repositori, cal situar-nos a la branca main i executar l'arxiu HBBQO.sh afegint el document HBBQO.csv com a argument. A partir d'aquí es mostrarà el menú principal i ja només caldrà seleccionar l'opció que sigui del nostre interès teclejant el seu número corresponent per teclat. Un cop finalitzada l’acció s’haurà d’esperar uns segons fins que torni automàticament al menú d’opció. <br>
+ㅤ
+
+
+### ⚠️ Problemes que hem tingut durant el projecte:
 
 El problema primordial amb què ens hem trobat ha sigut la coordinació a l'hora de treballar cadascun en el seu repositori local i després fer el procés de push i pull en el repositori central per tal que totes les branques es formessin correctament i no hi hagués cap error ni cap arxiu ubicat en una branca incorrecta.
 
-A més a més, també hi ha hagut algunes dificultats a l'hora d'escriure els scripts, sobretot a l'opció 2, ja que requerien un coneixement de bash cada vegada més avançat. Tot i això, tots els problemes han quedat solucionats i podem dir que la pràctica funciona correctament després d'hores de feina, pràctica i investigació sobre aquestes eines que eren noves per nosaltres.
+A més a més, també hi ha hagut algunes dificultats a l'hora d'escriure els scripts, sobretot a l'opció 2, ja que requerien un coneixement de bash cada vegada més avançat. Tot i això, tots els problemes han quedat solucionats i podem dir que la pràctica funciona correctament després d'hores de feina, pràctica i investigació sobre aquestes eines que eren noves per nosaltres. <br>
+ㅤ
 
-<br><div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://media.istockphoto.com/id/1162198273/es/vector/dise%C3%B1o-de-ilustraci%C3%B3n-vectorial-plana-icono-de-signo-de-interrogaci%C3%B3n.jpg?s=612x612&w=0&k=20&c=ZP_KrHAiZiMLttztdGIegaJlNhBYCvsyr0S9-irTTTM=" alt="Llibre blau" width="25" style="vertical-align: middle;"/>
-  <h3 style="margin: 0; vertical-align: middle;"><b style="vertical-align: middle;">Conclusions</b></h3>
-</div><br>
+### 📋 Conclusions:
+alskjdlkasdkjadasd <br>
+ㅤ
