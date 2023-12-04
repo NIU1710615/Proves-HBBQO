@@ -3,10 +3,6 @@
 ## Creació d'un script per a l'empresa HBBQO
 
 
-<!-- <p align="center">
-<img src="https://res.cloudinary.com/dkfxnnve5/image/upload/v1700935923/Captura_de_pantalla_2023-11-25_182102_lkkaxs.png" alt="Logo FSH" width="150"/>
-</p> -->
-
 ## **Format per:**
 
 |   Nom   |   Cognoms     |   NIU     |
@@ -15,8 +11,9 @@
 | Aina    | Vidal Vázquez |  1709382  |
 | Lluís   | Sàrries Mas   |  1710615  |
 
-
-### **INFORME:**
+ㅤ <br>
+ㅤ <br>
+## 📑 **INFORME:**
 
 
 Aquesta pràctica es basa en la creació d'un menú d'usuari per a una empresa de "Streaming" anomenada HBBQO. La primera part es tracta d'un menú principal en el qual apareixen quatre opcions, de les quals per aquest primer treball hem implementat les dues primeres.
